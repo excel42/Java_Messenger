@@ -1,2 +1,2 @@
-# PagingAlgorithm
-컴퓨터구조 페이징 알고리즘 구현
+# Java_Messenger
+자바 swingx 메신저
